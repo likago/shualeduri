@@ -47,10 +47,8 @@ a {
     transition: all 0.5s linear 0.6;
     }
 .header-ul li  :hover {
-    background-color: #29B24E;
-    padding: 10px;
-    border-radius: 20px;
-    color: #FFFFFF;
+    font-size: 16px;
+    color: #29B24E;
 }
 .header-ul :nth-child(1) ::after{
     content: "";
