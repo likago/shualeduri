@@ -52,6 +52,14 @@ a {
     border-radius: 20px;
     color: #FFFFFF;
 }
+.header-ul :nth-child(1) ::after{
+    content: "";
+    display: block;
+    width: 42px;
+    height: 2px;
+    background-color:#29B24E;
+    margin-top: 9px;
+}
 .header-search-icon {
     display: none;
 }
